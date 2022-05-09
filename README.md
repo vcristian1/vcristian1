@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![linkedin](https://img.shields.io/badge/LinkedIn-000000-<Background Color>style=for-the-badge&logo=GitHub&logoColor=white)
+
 
 ## About ME
 
