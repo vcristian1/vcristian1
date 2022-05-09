@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### About Me :man_beard:
+### About Me :rocket:
 I was born and raised in Chicago and still currently reside in Chicago, but one day plan to live somewhere else other than Illinois. Aside from building applications that can make our lives easier, I love to eat great food, spend time with my family, and travel with my fiancee. 
 
 - 🔭 I’m currently looking for an entry level position as a Software Engineer. 
