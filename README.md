@@ -10,11 +10,6 @@ I was born and raised in Chicago and still currently reside in Chicago, but one 
 - 🤔 I’m looking for help with finding early talent opporunities.
 - 💬 Ask me about Web Development
 - ⚡ Fun fact: I am a massive combat sports fan, and likely can talk your ear off about the latest fights in boxing or mma. 
-![image]({https://github-readme-stats.vercel.app/api?username={vcristian1}})
 
-<img src="https://github-readme-stats.vercel.app/api?username={vcristian1}"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={vcristian1}"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue"/>
+<img src="https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal">
 
