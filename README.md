@@ -7,7 +7,7 @@ I was born and raised in Chicago and still currently reside in Chicago, but one 
 - 🔭 I’m currently looking for an entry level position as a Software Engineer. 
 - 🌱 I’m currently enrolled in a Full Stack Bootcamp at Northwestern University.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with finding early talent opporunities.
+- 🤔 I’m looking for help with locating additional early talent opporunities.
 - 💬 Ask me about Web Development
 - ⚡ Fun fact: I am a massive combat sports fan, and likely can talk your ear off about the latest fights in boxing or mma. 
 
