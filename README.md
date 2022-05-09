@@ -11,5 +11,5 @@ I was born and raised in Chicago and still currently reside in Chicago, but one 
 - 💬 Ask me about Web Development
 - ⚡ Fun fact: I am a massive combat sports fan, and likely can talk your ear off about the latest fights in boxing or mma. 
 
-<img src="https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal">
+<img src="https://activity-graph.herokuapp.com/graph?username={vcristian1}&theme=minimal">
 
