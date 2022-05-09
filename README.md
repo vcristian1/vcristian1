@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About Me :rocket:
-I was born and raised in Chicago and still currently reside in Chicago, but one day plan to live somewhere else other than Illinois. Aside from building applications that can make our lives easier, I love to eat great food, spend time with my family, and travel with my fiancee. 
+I was born and raised in Chicago and still reside in Chicago, but one day plan to move somewhere else other than Illinois. Aside from building applications that can make our lives easier, I love to eat great food, spend time with my family, and travel with my fiancee. 
 
 - 🔭 I’m currently looking for an entry level position as a Software Engineer. 
 - 🌱 I’m currently enrolled in a Full Stack Bootcamp at Northwestern University.
