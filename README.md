@@ -1,24 +1,16 @@
 ### Hi there 👋
 
 
+## About Me :pilot:
+My name is Cristian Vargas, and I was born and raised in Chicago. I still currently reside in Chicago, but maybe one day will live somewhere else than Illinois. Aside from building applications that can make our lives easier, I love to eat great food, spend time with my family, and travel with my fiancee. Three of my favorite places I have travelled to stateside are Lake Havasu City AZ, Boulder CO, and San Diego CA. 
 
-## About ME
+<img src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
+- 🔭 I’m currently looking for an entry level position as a software engineer. 
+- 🌱 I’m currently enrolled in a Full Stack bootcamp at Northwestern University.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with finding early talent opporunities.
+- 💬 Ask me about Web Development
+- ⚡ Fun fact: I am a massive combat sports fan, and likely can talk your ear off about the latest fights in boxing or mma. 
 
-
-<!--
-**vcristian1/vcristian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
