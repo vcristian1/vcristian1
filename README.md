@@ -8,7 +8,7 @@ Chicago Native who hopes to live somewhere else other than Illinois! Aside from 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Web Development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/cristian-vargas-13686a1a3/">LinkedIn<a/>
-- ⚡ Fun fact: I am a massive combat sports fan, and likely can talk your ear off about the latest fights in boxing or mma. 
+- ⚡ Fun fact: I am a massive combat sports fan, and likely can talk your ear off about the latest fights in Boxing or MMA. 
 
 ### :thought_balloon:
 "I think it is possible for ordinary people to choose to be extraordinary." - Elon Musk
