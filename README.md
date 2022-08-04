@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### About Me :rocket:
+### About Me
 I was born and raised in Chicago, IL and one day hope to live somewhere else other than Illinois! Aside from building web applications that can make our lives easier, I love to eat great food, spend time with my family, and travel with my fiancee!
 
 - 🔭 I’m currently open to an entry level position as a Software Engineer. 
