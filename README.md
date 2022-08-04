@@ -13,3 +13,21 @@ I was born and raised in Chicago, IL and one day hope to live somewhere else oth
 ### :thought_balloon:
 "I think it is possible for ordinary people to choose to be extraordinary." - Elon Musk
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcristian1&langs_count=10&title_color=ADEFD1FF&text_color=f5f5f5&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=vcristian1&show_icons=true&hide_rank=true&hide=stars,&count_private=true&title_color=ADEFD1FF&text_color=f5f5f5&icon_color=9CC3D5FF&bg_color=171717&hide_border=true&show_icons=true" alt="github stats"/>
+
+<br>
+
+<a href="mailto: cristian.v0223@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
+  </a>
+
+
+<a href="https://www.linkedin.com/in/cristian-vargas-13686a1a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://vcristian1.github.io/vcristian_portfolio_demo/#projects">
+    <img src="https://img.shields.io/badge/Profile-430098?style=for-the-badge&logo=heroku&logoColor=white&color=071A2C" alt="Profile Badge"/>
+  </a>
