@@ -29,5 +29,5 @@ I was born and raised in Chicago, IL and one day hope to live somewhere else oth
   </a>
   
   <a href="https://vcristian1.github.io/vcristian_portfolio_demo/#projects">
-    <img src="https://img.shields.io/badge/Profile-430098?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Profile Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-430098?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Profile Badge"/>
   </a>
