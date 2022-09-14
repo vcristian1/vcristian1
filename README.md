@@ -1,6 +1,3 @@
-### About Me
-Chicago Native hoping to one day live outside of Chicago! Real Estate Professional and former Boxing Fitness Instructor turned Full Stack Engineer. Aside from building web applications that can make our lives easier, I love to eat great food, spend time with my family, and travel with my fiancee!
-
 ### :thought_balloon:
 "I think it is possible for ordinary people to choose to be extraordinary." - Elon Musk
 
