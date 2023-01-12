@@ -1,5 +1,4 @@
-[![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcristian1)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcristian1&show_icons=true&theme=cobalt)<br>
 
 <a href="mailto: cristian.v0223@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
