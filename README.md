@@ -1,3 +1,5 @@
+[![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcristian1)](https://github.com/vcristian1/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vcristian1)](https://git.io/streak-stats)<br>
 
 <a href="mailto: cristian.v0223@gmail.com">
