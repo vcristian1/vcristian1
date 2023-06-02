@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://my-portfolio-beta-three-79.vercel.app/">
+  <a href="https://cristianvargas.com">
     <img src="https://img.shields.io/badge/Portfolio-430098?style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Profile Badge"/>
   </a>
