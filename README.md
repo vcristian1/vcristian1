@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vcristian1)](https://git.io/streak-stats)<br>
 
 ![Cristian's Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=vcristian1&show_icons=true&theme=great-gatsby)
 
